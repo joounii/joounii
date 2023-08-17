@@ -1,7 +1,4 @@
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Crazy Buttons</title>
+<body>
   <style>
     body, .jumbotron { padding: 30px; }
     .text-giant      { font-size: 40px; }
@@ -14,8 +11,6 @@
       text-align: center;
     }
   </style>
-</head>
-<body>
   <button type="button" class="btn-crazy btn btn-lg btn-danger" onmouseenter="goCrazy.call(this)">
     Click Me!
   </button>
