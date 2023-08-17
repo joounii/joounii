@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" with="700"/>
-</div>
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
