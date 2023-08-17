@@ -1,15 +1,3 @@
-<style>
-  body, .jumbotron { padding: 30px; }
-  .text-giant      { font-size: 40px; }
-  .btn-crazy       {
-    position: absolute;
-    top: 30px;
-    left: 35%;
-    width: 30%;
-    transition: 0.1s ease all;
-    text-align: center;
-  }
-</style>
 <button type="button" class="btn-crazy btn btn-lg btn-danger" onmouseenter="goCrazy.call(this)">
   Click Me!
 </button>
